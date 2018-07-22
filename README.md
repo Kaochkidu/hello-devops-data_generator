@@ -1,2 +1,2 @@
 # hello-devops-scriptdata
-Script de génération de données.
+Utility script to generate hexadecimal random data.
