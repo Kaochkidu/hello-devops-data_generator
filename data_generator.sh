@@ -1,6 +1,6 @@
 #!/bin/bash
 ######################################################## 
-# Data_generator
+# data_generator
 #
 # Utility script to generate hexadecimal random data.
 #
@@ -49,7 +49,7 @@ esac
 }
 
 ########################################################
-#Call log function with info
+#Call log function
 log
 
 ########################################################
@@ -86,7 +86,7 @@ while (( $line_size < $line_max )); do
 done
 
 ########################################################
-#Call log function with trace
+#Call log function
 log
 
 #EOF
