@@ -22,7 +22,6 @@ line_max=10
 #log function
 log()
 {
-declare -i LOG_LEVEL
 	
 case $LOG_LEVEL in
 
